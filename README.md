@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 <p align="center">
-  <em>Building efficient, scalable backend systems that power modern web applications! 💻</em><br>
+  <em>Building efficient, scalable backend systems that power modern web applications! 💻</em><br />
   I specialize in backend development, focusing on creating robust, secure, and high-performance server-side solutions. My expertise lies in designing APIs, working with databases, and ensuring optimal performance and security. While I have experience in frontend technologies, my primary passion is backend development.
 </p>
 
@@ -32,8 +32,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 </div>
 
-
-<h3 align="left">💼 What I Do:</h3>
+<h2 align="center">💼 What I Do:</h2>
 <ul>
   <li>I build backend systems, focusing on creating scalable and efficient infrastructures using technologies like <b>Node.js</b>, <b>C#</b>, and <b>PostgreSQL</b>.</li>
   <li>I design and integrate APIs for dynamic web applications, ensuring smooth communication between services.</li>
@@ -43,16 +42,15 @@
 </ul>
 
 
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosiboad&show_icons=true&locale=en&layout=compact" alt="mosiboad" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosiboad&show_icons=true&locale=en" alt="mosiboad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosiboad&" alt="mosiboad" /></p>
+<h2 align="center">📊 GitHub Stats:</h2>
+<!-- Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mosiboad&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%" height="45%" />
+</div>
+<div align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mosiboad&theme=dark&hide_border=true" width="40%" height="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiboad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" height="41%" />
+</div>
 
 
 ![snake gif](https://github.com/MosIbOad/MosIbOad/blob/output/github-snake-dark.svg)
