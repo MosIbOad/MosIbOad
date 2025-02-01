@@ -6,7 +6,7 @@
   I specialize in backend development, focusing on creating robust, secure, and high-performance server-side solutions. My expertise lies in designing APIs, working with databases, and ensuring optimal performance and security. While I have experience in frontend technologies, my primary passion is backend development.
 </p>
 
-<!-- Tech Stack -->
+<!-- Tech Stack By https://github.com/Ileriayo/markdown-badges -->
 <div align="center">
   
 ## 💻 Tech Stack ⚡
