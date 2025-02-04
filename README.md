@@ -42,7 +42,7 @@
 </ul>
 
 
-<h2 align="left">📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats:</h2>
 <!-- Stats -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mosiboad&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%" height="45%" />
