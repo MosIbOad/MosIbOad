@@ -33,6 +33,7 @@
 
 <h2 align="center">💼 What I Do:</h2>
 <ul>
+  <li>I have experience developing backend infrastructures for multiplayer platforms like <a href="https://altv.mp/" target="_blank">alt:V</a> and <a href="https://rage.mp/" target="_blank">RAGE:MP</a>, optimizing performance and reliability for real-time interactions.</li>
   <li>I build backend systems, focusing on creating scalable and efficient infrastructures using technologies like <b>Node.js</b>, <b>C#</b>, and <b>PostgreSQL</b>.</li>
   <li>I design and integrate APIs for dynamic web applications, ensuring smooth communication between services.</li>
   <li>I optimize databases and create efficient data structures to ensure everything runs smoothly.</li>
