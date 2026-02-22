@@ -43,16 +43,6 @@
 </ul>
 
 
-<h2 align="center">📊 GitHub Stats:</h2>
-<!-- Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosiboad&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="45%" height="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosiboad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="41%" height="41%" />
-</div>
-<div align="center"> 
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=mosiboad&theme=dark&hide_border=true" width="40%" height="40%" />-->
-  
-</div>
-
+<h2 align="center"></h2>
 
 ![snake gif](https://github.com/MosIbOad/MosIbOad/blob/output/github-snake-dark.svg)
