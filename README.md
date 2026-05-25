@@ -42,7 +42,8 @@
   <li>I work closely with frontend teams to integrate backend services seamlessly into the overall project.</li>
 </ul>
 
-
+<!--
 <h2 align="center"></h2>
 
 ![snake gif](https://github.com/MosIbOad/MosIbOad/blob/output/github-snake-dark.svg)
+-->
