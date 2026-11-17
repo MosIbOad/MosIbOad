@@ -1,45 +1,56 @@
 <h1 align="center">Hi 👋, I'm Berkan</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">Backend & Systems Developer | Game Server Architect from Turkey</h3>
 
 <p align="center">
-  <em>Building efficient, scalable backend systems that power modern web applications! 💻</em><br />
-  I specialize in backend development, focusing on creating robust, secure, and high-performance server-side solutions. My expertise lies in designing APIs, working with databases, and ensuring optimal performance and security. While I have experience in frontend technologies, my primary passion is backend development.
+  <em>Engineering high-performance, zero-dependency backend systems, SaaS platforms, and custom multiplayer architectures! ⚡</em><br />
+  I focus on building scalable, secure, and clean server-side solutions—ranging from B2B FinTech applications to custom C#/.NET game server frameworks and local AI integrations.
 </p>
 
-<!-- Tech Stack By https://github.com/Ileriayo/markdown-badges -->
+<!-- Tech Stack Badges -->
 <div align="center">
-  
-## 💻 Tech Stack ⚡
+
+### 💻 Tech Stack
+
+**Languages & Runtimes**  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars-%23000000?style=for-the-badge&logo=Handlebars.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+
+**Frontend & Desktop**  
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Databases**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+**DevOps, Infrastructure & Game Engines**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 </div>
 
-<h2 align="center">💼 What I Do:</h2>
+<br />
+
+<h3 align="center">💼 What I Do</h3>
+
 <ul>
-  <li>I have experience developing backend infrastructures for multiplayer platforms like <a href="https://altv.mp/" target="_blank">alt:V</a> and <a href="https://rage.mp/" target="_blank">RAGE:MP</a>, optimizing performance and reliability for real-time interactions.</li>
-  <li>I build backend systems, focusing on creating scalable and efficient infrastructures using technologies like <b>Node.js</b>, <b>C#</b>, and <b>PostgreSQL</b>.</li>
-  <li>I design and integrate APIs for dynamic web applications, ensuring smooth communication between services.</li>
-  <li>I optimize databases and create efficient data structures to ensure everything runs smoothly.</li>
-  <li>I focus on securing applications and improving performance by using the best practices available.</li>
-  <li>I work closely with frontend teams to integrate backend services seamlessly into the overall project.</li>
+  <li><b>Custom Multiplayer Architectures:</b> Architecting zero-dependency, high-performance server frameworks in <b>C# / .NET</b> for <a href="https://fivem.net/" target="_blank">FiveM</a> (custom RPCs, State Bag wrappers, NUI managers), alongside deep experience with <a href="https://altv.mp/" target="_blank">alt:V</a> and <a href="https://rage.mp/" target="_blank">RAGE:MP</a>.</li>
+  <li><b>B2B FinTech & Web Systems:</b> Building full-stack SaaS applications—such as automated accounting and e-Invoice parsing platforms—using <b>TypeScript</b>, <b>Node.js</b>, <b>Vue 3</b>, and <b>PostgreSQL</b>.</li>
+  <li><b>Local AI & Workflow Automation:</b> Integrating local LLMs into real-time translation pipelines, structured document parsing, and developer tooling.</li>
+  <li><b>Game Development & C++:</b> Exploring 3D game mechanics, physics, and gameplay systems in <b>Unreal Engine 5 (C++)</b> and <b>Godot (C#)</b>.</li>
+  <li><b>Infrastructure, Security & Desktop Tooling:</b> Deploying containerized services on <b>Ubuntu</b> with <b>Docker</b> and <b>Nginx</b>, hardening application security, and building standalone C# desktop utilities.</li>
 </ul>
 
 <!--
