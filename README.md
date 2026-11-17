@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>Engineering high-performance, zero-dependency backend systems, SaaS platforms, and custom multiplayer architectures! ⚡</em><br />
-  I focus on building scalable, secure, and clean server-side solutions—ranging from B2B FinTech applications to custom C#/.NET game server frameworks and local AI integrations.
+  I focus on building scalable, secure, and clean server-side solutions, ranging from B2B FinTech applications to custom C#/.NET game server frameworks and local AI integrations.
 </p>
 
 <!-- Tech Stack Badges -->
@@ -46,9 +46,9 @@
 <h3 align="center">💼 What I Do</h3>
 
 <ul>
-  <li><b>Custom Multiplayer Architectures:</b> Architecting zero-dependency, high-performance server frameworks in <b>C# / .NET</b> for <a href="https://fivem.net/" target="_blank">FiveM</a> (custom RPCs, State Bag wrappers, NUI managers), alongside deep experience with <a href="https://altv.mp/" target="_blank">alt:V</a> and <a href="https://rage.mp/" target="_blank">RAGE:MP</a>.</li>
-  <li><b>B2B FinTech & Web Systems:</b> Building full-stack SaaS applications—such as automated accounting and e-Invoice parsing platforms—using <b>TypeScript</b>, <b>Node.js</b>, <b>Vue 3</b>, and <b>PostgreSQL</b>.</li>
-  <li><b>Local AI & Workflow Automation:</b> Integrating local LLMs into real-time translation pipelines, structured document parsing, and developer tooling.</li>
+  <li><b>Custom Multiplayer Architectures:</b> Developing zero-dependency, high-performance server frameworks in <b>C# / .NET</b> for <a href="https://fivem.net/" target="_blank">FiveM</a> (with custom RPCs, State Bag wrappers, and NUI managers), alongside solid experience on <a href="https://altv.mp/" target="_blank">alt:V</a> and <a href="https://rage.mp/" target="_blank">RAGE:MP</a>.</li>
+  <li><b>B2B FinTech & Web Systems:</b> Building full-stack SaaS applications, including automated accounting and e-Invoice parsing platforms, with <b>TypeScript</b>, <b>Node.js</b>, <b>Vue 3</b>, and <b>PostgreSQL</b>.</li>
+  <li><b>Local AI & Workflow Automation:</b> Integrating local LLMs into real-time translation workflows, structured document parsing, and developer tools.</li>
   <li><b>Game Development & C++:</b> Exploring 3D game mechanics, physics, and gameplay systems in <b>Unreal Engine 5 (C++)</b> and <b>Godot (C#)</b>.</li>
   <li><b>Infrastructure, Security & Desktop Tooling:</b> Deploying containerized services on <b>Ubuntu</b> with <b>Docker</b> and <b>Nginx</b>, hardening application security, and building standalone C# desktop utilities.</li>
 </ul>
